@@ -2,7 +2,6 @@
 
 Overview of the analysis of the Vine program
 
-The purpose of this analysis is well defined
 In this analysis, I analyzed Amazon reviews written by members of the paid Amazon Vine program. The purpose was to allow manufacturers and publishers to see reviews for their products, many of whom pay a fee to Amazon in order to provide poroducts to Vine members who purchase said products for review.
 
 This analysis had access to ~50 datasets with product information ranging from clothing apparel to wireless products. 
