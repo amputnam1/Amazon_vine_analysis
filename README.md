@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-Overview of the analysis of the Vine program
+## Overview of the analysis of the Vine program
 
 In this analysis, I analyzed Amazon reviews written by members of the paid Amazon Vine program. The purpose was to allow manufacturers and publishers to see reviews for their products, many of whom pay a fee to Amazon in order to provide poroducts to Vine members who purchase said products for review.
 
@@ -13,7 +13,7 @@ Tools used:
  - Pandas
  - S|QL
 
-Results:
+## Results:
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews
 
@@ -29,11 +29,10 @@ I found that of the 51,123 reviews within the data set, 50,516 (98.8%) were unpa
 
 <img width="823" alt="Screen Shot 2022-06-25 at 8 21 06 PM" src="https://user-images.githubusercontent.com/93094173/175794484-0ff37586-0d21-41ab-804e-f0ca38d3cdf8.png">
 
-
 Further, of the 607 paid reviews, only 257 (42%) were 5 star reviews.
 <img width="818" alt="Screen Shot 2022-06-25 at 8 22 07 PM" src="https://user-images.githubusercontent.com/93094173/175794480-91a3e3e7-cefe-4429-a70d-ec5130d56bd9.png">
 
 
-Summary:
+## Summary:
 
 In sum, I would summize that of the reviewers who are Vine reviewers there isn't a bias towards 5-star reviews, but rather, they are more honest and forthright in their feedback of respetive products. Perhaps future analysis could include analyzing both paid and unpaid reviews.
